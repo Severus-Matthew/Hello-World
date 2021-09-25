@@ -1,2 +1,2 @@
 # Hello-world
-manvi jha
+Manvi Jha
